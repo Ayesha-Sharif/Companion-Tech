@@ -9,7 +9,7 @@ The projects were completed using a combination of manual testing techniques and
 
 | Project Name | Description | Tools Used |
 |---------------|-------------|-------------|
-| **Unit Testing ** | Tested a web application for functionality and usability. | JIRA |
+| **Unit Testing** | Tested a web application for functionality and usability. | JIRA |
 | **Responsiveness Testing** | Tested a website for compatibility across different devices. | Appium |
 | **Project 3** | Tested a desktop application for security vulnerabilities. | Burp Suite |
 
